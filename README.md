@@ -22,9 +22,12 @@
 - My ultimate goal is to create something that will help millions of users!
 
 ## 🔗 Connect with Reltec
-<div align = 'center'
+
+<div align='center'
 <a href="https://reltec.co.in"><img src="https://pbs.twimg.com/profile_images/1263503695146299393/zWrNfqNV_400x400.jpg" alt="instagram" width="40" height="40"/></a>
+
 <a href="https://instagram.com/reltec.co.in"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/></a>
+
 <a href="https://twitter.com/reltecin"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" width="40" height="40"/></a>
 </div>
 
