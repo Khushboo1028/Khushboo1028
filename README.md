@@ -41,12 +41,12 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?logo=firebase)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?logo=adobe-photoshop)
-![XD](https://img.shields.io/badge/-Photoshop-000?logo=adobe-xd)
-![PremierPro](https://img.shields.io/badge/-Premier%20Pro-000?logo=adobe-premier-pro&logoColor=FFFFFF)
+![XD](https://img.shields.io/badge/-XD-000?logo=adobe-xd)
+![PremierePro](https://img.shields.io/badge/-Premiere%20Pro-000?logo=adobe-premiere-pro)
+![Github](https://img.shields.io/badge/-GitHub-000?logo=github)
 
 
 
