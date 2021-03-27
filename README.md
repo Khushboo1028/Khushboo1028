@@ -1,10 +1,12 @@
-## Hello! I'm Khushboo Gandhi
 
-<p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
-</p>
+<div align="center">
+  
+  # <img src="https://i.imgur.com/WzXa8Pv.png"/>
+  ### Co-Founder | Developer | Designer
+</div>
 
 
-- I'm a **Developer** | **Programmer** | **Learner**
+
+- I'm a **Developer** | **Programmer** | **Designer** | **Learner** 
 - Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
