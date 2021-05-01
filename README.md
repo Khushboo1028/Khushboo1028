@@ -25,9 +25,7 @@
 
 <div
 <a href="https://reltec.co.in"><img src="https://i.imgur.com/MO2EvdD.png" alt="reltec" width="40" height="40"/></a>
-
 <a href="https://instagram.com/reltec.co.in"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/></a>
-
 <a href="https://twitter.com/reltecin"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" width="40" height="40"/></a>
 </div>
 
