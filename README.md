@@ -8,7 +8,7 @@
 
 <p align='center'>
 <a href="https://twitter.com/khushboo1028"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/ink_on_paper__"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ink_on_paper__"><img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"  alt="instagram" width="40" height="40"></a>&nbsp;&nbsp;
 <a href="https://in.linkedin.com/in/khushboo-gandhi-9aa57474"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
