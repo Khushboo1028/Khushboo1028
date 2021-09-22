@@ -14,20 +14,10 @@
 
 ## 🧑‍ Get to know me!
 
-- Co-Founder of Reltec (Replon Technologies LLP)
-- Reltec focuses on mobile app and web development! We also create API's, design pages and do other interesting things!
-- I mainly focus on android app and web development.
-- I am learning react native and iOS app development.
+- I focus on android app and web development.
 - I also design web and app pages.
 - My ultimate goal is to create something that will help millions of users!
 
-## 🔗 Connect with Reltec
-
-<div
-<a href="https://reltec.co.in"><img src="https://i.imgur.com/MO2EvdD.png" alt="reltec" width="40" height="40"/></a>
-<a href="https://instagram.com/reltec.co.in"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/></a>
-<a href="https://twitter.com/reltecin"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" width="40" height="40"/></a>
-</div>
 
 ## 🛠 Languages and Tools
 
