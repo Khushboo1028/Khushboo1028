@@ -19,11 +19,13 @@
 - My ultimate goal is to create something that will help millions of users!
 
 
+
 ## 🛠 Languages and Tools
 
 ![Android](https://img.shields.io/badge/-Android-000?logo=android)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-000?logo=react)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=html5)
@@ -38,6 +40,7 @@
 ![XD](https://img.shields.io/badge/-XD-000?logo=adobe-xd)
 ![PremierePro](https://img.shields.io/badge/-Premiere%20Pro-000?logo=adobe-premiere-pro)
 ![Github](https://img.shields.io/badge/-GitHub-000?logo=github)
+
 
 
 
